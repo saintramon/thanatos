@@ -1,0 +1,8 @@
+knowledge/
+
+src/.env
+
+src/.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
