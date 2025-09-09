@@ -1,6 +1,6 @@
 from fastapi import FASTApi
 from pydantic import BaseModel
-from pinecond import Pincone
+from pinecone import Pincone
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from dotenv import load_dotenv
 import os
